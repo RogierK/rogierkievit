@@ -1,0 +1,14 @@
+---
+title: "Publications"
+output: distill::distill_article
+date: "2023-10-26"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Publications
+
+Raven, E. P., Veraart, J., Kievit, R. A., Genc, S., Ward, I. L., Hall, J., ... & Jones, D. K. (2023). In vivo evidence of microstructural hypo-connectivity of brain white matter in 22q11. 2 deletion syndrome. Molecular Psychiatry, 1-11.
+

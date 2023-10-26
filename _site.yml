@@ -1,0 +1,17 @@
+name: "rogierkievit"
+title: "My Website"
+description: |
+  My Website
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Projects"
+      href: Projects.html
+    - text: "Publications"
+      href: Publications.html
+    - text: "About"
+      href: about.html
+      
+output: distill::distill_article

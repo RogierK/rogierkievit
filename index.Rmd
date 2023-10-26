@@ -1,0 +1,27 @@
+---
+title: "Rogier Kievit's website "
+description: |
+  Testing a new git website
+site: distill::distill_website
+---
+
+---
+body: "This is how to write a paragraph"
+---
+
+
+---
+body: "And a second paragraph"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+

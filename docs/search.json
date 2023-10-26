@@ -1,0 +1,37 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\nImages/\n\n\n\n",
+      "last_modified": "2023-10-26T11:44:35+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Rogier Kievit's website ",
+      "description": "Testing a new git website\n",
+      "author": [],
+      "contents": "\nAnd a second paragraph\n\n\n",
+      "last_modified": "2023-10-26T11:44:35+02:00"
+    },
+    {
+      "path": "Projects.html",
+      "title": "Projects",
+      "author": [],
+      "date": "2023-10-26",
+      "contents": "\nCOGNITIVE DYNAMICS\nA striking feature of individual differences in cognitive abilities is that they are universally positively correlated – a phenomenon known as the positive manifold. The traditional method of analysis yields a g-factor, a single summary metric with considerable predictive power. However, this summary metric ignores the developmental origin of the positive manifold. Multiple competing accounts of the origin of the g factor have been proposed, but in the absence of tailored longitudinal data these models cannot be empirically distinguished. One such model, the mutualism model, proposes that positive interactions between cognitive domains facilitate mutual growth. In three (1, 2, 3)different projects we have shown that this model can help explain cognitive development in childhood. We are currently working on various extensions of these findings.\n\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00  \n\nMODELLING BRAIN-BEHAVIOR RELATIONSHIPS\nOne of the core questions in cognitive neuroscience is how brain and behaviour are related. To this end, we propose a theory-drive, multivariate statistical approach. In previous work we demonstrate how theories from philosophy of mind such as identity theory and supervenience can be represented as statistical models and thus tested empirical for a given construct. Recently, we have expanded this thinking to develop a statistical implementation of the watershed model. This model presupposes that distal influences such as small genetic effects propagate through low- and intermediate level, partially independent phenotypes such as brain structure and basic cognitive abilities to affect high level constructs such as fluid reasoning. We have shown this model outperforms competing accounts in three distinct cohorts across the lifespan.\n\n\n\nMethods\nTo study lifespan changes in cognition and brain structure and function, we use multivariate methods such as Structural Equation Modeling. These models can be used to translate theoretical positions into tractable statistical models, and thus directly compared in a given dataset. Recently, we have contributed tools to develop new methods such as regularized SEM, making nice plots and tutorials that make existing tools more accessible.\n\n\n\n",
+      "last_modified": "2023-10-26T11:44:36+02:00"
+    },
+    {
+      "path": "Publications.html",
+      "title": "Publications",
+      "author": [],
+      "date": "2023-10-26",
+      "contents": "\nPublications\nRaven, E. P., Veraart, J., Kievit, R. A., Genc, S., Ward, I. L., Hall, J., … & Jones, D. K. (2023). In vivo evidence of microstructural hypo-connectivity of brain white matter in 22q11. 2 deletion syndrome. Molecular Psychiatry, 1-11.\n\n\n\n",
+      "last_modified": "2023-10-26T11:44:36+02:00"
+    }
+  ],
+  "collections": []
+}

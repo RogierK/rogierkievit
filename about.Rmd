@@ -1,0 +1,13 @@
+---
+title: "About this site"
+description: |
+  Some additional details about the website
+---
+![](Images/RAK_photo.jpg){ width=40% }
+Images/
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+
+```
+
